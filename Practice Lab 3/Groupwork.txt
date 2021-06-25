@@ -2,10 +2,41 @@ JavaScript Hero Exercises:
 
 1. //Variables
 let firstname ='Lata'; - Abasta
-let firstname ='Lata';- Abasta
 
 2. //What is X?
 let x = 'Geeta';// Output 'Geeta'- Tang-o
+
+3.//Several variables
+let flower ='rose';
+let tree = 'maple';- Abasta
+  
+4.//Reassignment
+let x = 'Tic';
+x = 'Tac';
+x = 'Toe';
+//Output: 'Toe' - Tang-o
+ 
+ 
+6.function addWithSurcharge(a, b) {
+  function hello() {
+  return 'Hello world!'; - Hitomo
+ 
+
+7.// Multiple functions
+function a(){
+return 'Hello a!'
+}
+function b(){
+return 'Hello b!'
+} // - Tang-o
+
+8. 'Toe' - Abasta
+
+9. 'Hi!' - Gasatan
+
+10. function echo(sound) {
+  return sound;
+} - Gasatan
 
 28. // Increment
 let x = 3;
@@ -34,27 +65,3 @@ function addWithSurcharge(a, b) {
 
   return a + b + surcharge;
   // addWithSurcharge(5, 15) = 23 - Tang-o
-  
-4.//Reassignment
-let x = 'Tic';
-x = 'Tac';
-x = 'Toe';
-//Output: 'Toe' - Tang-o
- 
- 
-6.function addWithSurcharge(a, b) {
-  function hello() {
-  return 'Hello world!'; - Hitomo
- 
-
-7. let flower ='roses';
-   let tree = 'maple';- Abasta
-
-
-8. 'Toe' - Abasta
-
-9. 'Hi!' - Gasatan
-
-10. function echo(sound) {
-  return sound;
-} - Gasatan
