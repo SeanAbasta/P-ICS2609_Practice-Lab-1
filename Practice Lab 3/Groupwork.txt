@@ -1,0 +1,3 @@
+JavaScript Hero Exercises:
+
+1. let firstname ='Lata';- Abasta
