@@ -1,27 +1,38 @@
 JavaScript Hero Exercises:
 
 1. 
-let firstname ='Lata';- Abasta
+let firstname ='Lata'; - Abasta
 
 2.
-function Roast() {
-  return 'On Flames';
-}  - Tang-o
+let x = 'Geeta'; - Tang-o
 
-3.
-let x = 9;
+28.
+let x = 3;
 x++;
-x = x * 7; 
-x--; - Tang-o
-
+x = x * 2; 
+x--;
+output: 7
+- Tang-o
 
  
-4.
-let message;
-if (amount > 900) {
-  message = 'Its over nine hundred!';
-} else {
-  message = 'I can handle this!';
+48.
+function addWithSurcharge(a, b) {
+
+  let surcharge = 0;
+
+  if (a <= 10) {
+    surcharge = surcharge + 1;
+  } else {
+    surcharge = surcharge + 2;
+  }
+
+  if (b <= 10) {
+    surcharge = surcharge + 1;
+  } else {
+    surcharge = surcharge + 2;
+  }
+
+  return a + b + surcharge;
 } - Tang-o
  
  
@@ -31,10 +42,9 @@ if (amount > 900) {
 6.function hello() {
   return 'Hello world!'; - Hitomo
  
-7. let flower ='rose';
-   let tree = 'maple';- Abasta
+7.
 
-8. 'Toe' - Abasta
+8.
 
 9.
 
