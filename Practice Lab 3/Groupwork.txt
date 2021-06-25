@@ -36,7 +36,12 @@ function addWithSurcharge(a, b) {
 } - Tang-o
  
  
-5.
+5.let x = 'Laurel';
+let y = 'Hardy';
+let z = y;
+y = x;
+x = z;
+//Output: 'Hardy'
  
  
 6.function hello() {
