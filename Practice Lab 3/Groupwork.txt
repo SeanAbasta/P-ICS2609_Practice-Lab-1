@@ -15,9 +15,16 @@ let x = 'Tic';
 x = 'Tac';
 x = 'Toe';
 //Output: 'Toe' - Tang-o
+
+5. //Assign variables
+let x = 'Laurel';
+let y = 'Hardy';
+let z = y;
+y = x;
+x = z;
+//Output: 'Hardy' - Tang-o
  
- 
-6.function addWithSurcharge(a, b) {
+6.// Functions
   function hello() {
   return 'Hello world!'; - Hitomo
  
