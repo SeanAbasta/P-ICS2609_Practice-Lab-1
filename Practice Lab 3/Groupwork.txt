@@ -1,20 +1,28 @@
 JavaScript Hero Exercises:
 
-1. let firstname ='Lata';- Abasta
+1. 
+let firstname ='Lata';- Abasta
 
-2.function Roast() {
+2.
+function Roast() {
   return 'On Flames';
 }  - Tang-o
 
-
+3.
 let x = 9;
 x++;
 x = x * 7; 
 x--; - Tang-o
 
-3.
+
  
 4.
+let message;
+if (amount > 900) {
+  message = 'Its over nine hundred!';
+} else {
+  message = 'I can handle this!';
+}
  
  
 5.
