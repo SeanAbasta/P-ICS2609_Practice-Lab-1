@@ -47,7 +47,7 @@ x = 'Toe';
   return 'Hello world!'; - Hitomo
  
 
-7. let flower ='rose';
+7. let flower ='roses';
    let tree = 'maple';- Abasta
 
 
