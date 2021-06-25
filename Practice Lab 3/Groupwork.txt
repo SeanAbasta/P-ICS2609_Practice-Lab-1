@@ -63,3 +63,8 @@ if (amount > 900) {
 8. 'Toe' - Abasta
 
 9. 'Hi!' - Gasatan
+
+
+10. function echo(sound) {
+  return sound;
+} -Gasatan
