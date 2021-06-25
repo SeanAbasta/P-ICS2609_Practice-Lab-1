@@ -5,3 +5,7 @@ JavaScript Hero Exercises:
 2.function Roast() {
   return 'On Flames'; - Tang-o
 }
+
+6. function hello() {
+  return 'Hello world!';
+}
