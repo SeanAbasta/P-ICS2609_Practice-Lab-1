@@ -1,18 +1,26 @@
 JavaScript Hero Exercises:
 
-1. 
+1. //Variables
 let firstname ='Lata'; - Abasta
+let firstname ='Lata';- Abasta
 
-2.
-let x = 'Geeta'; //Output 'Geeta' - Tang-o
+2. //What is X?
+let x = 'Geeta'; - Tang-o
+function Roast() {
+  return 'On Flames';
+}  - Tang-o
 
 28.
 let x = 3;
+3.
+let x = 9;
 x++;
 x = x * 2; 
 x--;
 output: 7
-// - Tang-o
+- Tang-o
+x = x * 7; 
+x--; - Tang-o
 
  
 48.
@@ -33,25 +41,25 @@ function addWithSurcharge(a, b) {
   }
 
   return a + b + surcharge;
-} //addWithSurcharge(5, 15) = 23 - Tang-o
+ 
+4.//Reassignment
+let message;
+if (amount > 900) {
+  message = 'Its over nine hundred!';
+} else {
+  message = 'I can handle this!';
+} - Tang-o
  
  
-5.let x = 'Laurel';
-let y = 'Hardy';
-let z = y;
-y = x;
-x = z;
-//Output: 'Hardy' - Tang-o
- 
- 
-6.function hello() {
+6.function addWithSurcharge(a, b) {
+  function hello() {
   return 'Hello world!'; - Hitomo
  
-7.
 
-8.
+7. let flower ='rose';
+   let tree = 'maple';- Abasta
+
+
+8. 'Toe' - Abasta
 
 9.
-
-
-10.
