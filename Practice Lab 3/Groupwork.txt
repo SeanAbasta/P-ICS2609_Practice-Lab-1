@@ -34,7 +34,7 @@ if (amount > 900) {
 7. let flower ='rose';
    let tree = 'maple';- Abasta
 
-8.
+8. 'Toe' - Abasta
 
 9.
 
