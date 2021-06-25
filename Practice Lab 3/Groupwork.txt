@@ -22,7 +22,7 @@ if (amount > 900) {
   message = 'Its over nine hundred!';
 } else {
   message = 'I can handle this!';
-}
+} - Tang-o
  
  
 5.
