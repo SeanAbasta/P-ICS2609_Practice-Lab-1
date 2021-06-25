@@ -9,8 +9,6 @@ let x = 'Geeta';// Output 'Geeta'- Tang-o
 
 28. // Increment
 let x = 3;
-3.
-let x = 9;
 x++;
 x = x * 2; 
 x--;
