@@ -16,9 +16,6 @@ x = x * 2;
 x--;
 output: 7
 - Tang-o
-x = x * 7; 
-x--; - Tang-o
-
  
 48.// If else
 function addWithSurcharge(a, b) {
