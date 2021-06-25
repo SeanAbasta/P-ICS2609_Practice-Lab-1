@@ -1,3 +1,7 @@
 JavaScript Hero Exercises:
 
 1. let firstname ='Lata';- Abasta
+
+2.function Roast() {
+  return 'On Flames'; - Tang-o
+}
